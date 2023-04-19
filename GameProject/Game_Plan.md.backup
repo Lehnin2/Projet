@@ -1,0 +1,11 @@
+# game plan
+## MENU
+### Necessary Values
+1. BUTTONS:
+	1. FRAME: is an image loaded from file.
+	2. TEXT: is an image generated from text/police/font/color.
+	And so the button is an image text on frame.
+
+
+2. IMAGES
+3. AUDIO

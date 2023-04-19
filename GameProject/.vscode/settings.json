@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "menu.h": "c",
+        "game.h": "c",
+        "global.h": "c",
+        "background.h": "c"
+    }
+}
